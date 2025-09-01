@@ -10,7 +10,7 @@ import google.generativeai as genai
 from typing import List, Dict
 
 # Configure the API key
-API_KEY = "AIzaSyDy9URfX9-SFc2P1K1uOXWIYWd4Yv7syMc"
+API_KEY = "your_gemini_api_key_here"
 
 def test_gemini_api():
     """Test basic Gemini API connectivity"""
